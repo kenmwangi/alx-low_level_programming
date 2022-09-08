@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main -prints the given sentence
+ * main - prints exactly with proper grammar, but the outcome is a piece of art,
  * outcome is a piece of art
  * Return 0: exited properly, non-zero otherwise
  */
