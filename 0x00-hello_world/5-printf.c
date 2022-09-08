@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main -prints the given sentence
  * outcome is a piece of art
