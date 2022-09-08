@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - prints "and that piece of art is useful" 
+ * main - prints "and that piece of art is useful"
  * followed by \n for stderror
  * Return: Always 0 (Success)
  */
