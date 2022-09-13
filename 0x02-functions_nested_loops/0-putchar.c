@@ -1,9 +1,8 @@
 #include "main.h"
 
-/*
- * _putchar - writes character c to stdout
- * c - character print
- * return 0: Success
+/**
+ *  * main -  prints Holberton, followed by a new line
+ *   * Return: Always 0 (Success)
  */
 int main(void)
 {
